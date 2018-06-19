@@ -1,0 +1,11 @@
+C:\Users\Bruger\Desktop\InternetTech\WebApICI\WebApiDI\bin\Debug\netcoreapp2.0\WebApiDI.deps.json
+C:\Users\Bruger\Desktop\InternetTech\WebApICI\WebApiDI\bin\Debug\netcoreapp2.0\WebApiDI.runtimeconfig.json
+C:\Users\Bruger\Desktop\InternetTech\WebApICI\WebApiDI\bin\Debug\netcoreapp2.0\WebApiDI.runtimeconfig.dev.json
+C:\Users\Bruger\Desktop\InternetTech\WebApICI\WebApiDI\bin\Debug\netcoreapp2.0\WebApiDI.dll
+C:\Users\Bruger\Desktop\InternetTech\WebApICI\WebApiDI\bin\Debug\netcoreapp2.0\WebApiDI.pdb
+C:\Users\Bruger\Desktop\InternetTech\WebApICI\WebApiDI\obj\Debug\netcoreapp2.0\WebApiDI.csprojResolveAssemblyReference.cache
+C:\Users\Bruger\Desktop\InternetTech\WebApICI\WebApiDI\obj\Debug\netcoreapp2.0\WebApiDI.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\Desktop\InternetTech\WebApICI\WebApiDI\obj\Debug\netcoreapp2.0\WebApiDI.AssemblyInfoInputs.cache
+C:\Users\Bruger\Desktop\InternetTech\WebApICI\WebApiDI\obj\Debug\netcoreapp2.0\WebApiDI.AssemblyInfo.cs
+C:\Users\Bruger\Desktop\InternetTech\WebApICI\WebApiDI\obj\Debug\netcoreapp2.0\WebApiDI.dll
+C:\Users\Bruger\Desktop\InternetTech\WebApICI\WebApiDI\obj\Debug\netcoreapp2.0\WebApiDI.pdb
